@@ -1,0 +1,37 @@
+# Campaign Clippers
+
+> Campaign Clippers is a two-sided SaaS marketplace that connects brands and
+> agencies (Campaign Owners) with video clippers (creators and editors).
+> Brands launch escrow-funded clip campaigns; clippers apply, submit clips,
+> and are paid automatically when clips are approved.
+
+## Key facts
+
+- Two roles: Campaign Owners (brands/agencies) and Clippers (creators/editors).
+- Escrow payments: campaign budgets are locked at launch; clippers are paid on approval.
+- Reward models: CPM (per 1,000 views), fixed fee per clip, or hybrid.
+- Payments: Stripe, PayPal, crypto (BTC/ETH/USDC/SOL) and M-Pesa mobile money.
+- AI features: clip quality scoring, viral potential prediction, caption generation.
+- Clipper verification tiers: Rising, Bronze, Silver, Gold, Elite — computed from
+  real activity (views, earnings, approvals, connected accounts, ratings).
+- Social connections: clippers link real social accounts (YouTube, TikTok,
+  Instagram, X, Twitch, Reddit and more) with live public follower stats and
+  bio-code ownership verification. Multiple accounts per platform supported.
+- Pricing for brands: Starter $0/mo (1 campaign, 10% fee), Professional $49/mo
+  (10 campaigns, 5% fee), Enterprise $199/mo (unlimited, 2% fee). Clippers free.
+- Referral program: $10 per referred user who becomes active, plus milestone bonuses.
+- GDPR compliant with one-click data export.
+
+## Pages
+
+- /: Product overview, features, how it works, testimonials
+- /pricing: Plan comparison, FAQ
+- /signup: Create an account (role selection: clipper or brand)
+- /login: Sign in (email, Google)
+- /legal/privacy: Privacy Policy
+- /legal/terms: Terms of Service
+- /legal/gdpr: GDPR Compliance
+
+## Contact
+
+- support@campaignclippers.com
